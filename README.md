@@ -1,2 +1,3 @@
 # leetcode
-Repo for leetcode problem solving
+
+Repo for [leetcode](https://leetcode.com/problemset/) problem solving
